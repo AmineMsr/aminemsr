@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ds" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/dsd](https://www.linkedin.com/in/amine-maasri-892a91222/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsd" height="30" width="40" /></a>
-<a href="https://kaggle.com/ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ds" height="30" width="40" /></a>
-<a href="https://instagram.com/ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ds" height="30" width="40" /></a>
+<a href="https://twitter.com/amine_maasri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ds" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/dsd](https://www.linkedin.com/in/amine-maasri-892a91222/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsd" height="30" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ds" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amine.maasri/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ds" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
