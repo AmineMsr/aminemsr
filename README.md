@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/amine_maasri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ds" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amine-maasri-892a91222/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsd" height="30" width="40" /></a>
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ds" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/aminemaasri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ds" height="30" width="40" /></a>
 <a href="https://www.instagram.com/amine.maasri/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ds" height="30" width="40" /></a>
 </p>
 
