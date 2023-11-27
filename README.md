@@ -14,7 +14,7 @@ Here are some ideas to get you started :
 -->
 
 <h1 align="center">Hi there 👋, I'm Amine Maasri</h1>
-<h3 align="center">I'm a data and knowledge engineering student from morocco</h3>
+<h3 align="center">I'm a knowledge and data engineering student from morocco</h3>
 
 - 🔭 I’m currently working on **Time series forecasting**
 
